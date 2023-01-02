@@ -1,10 +1,31 @@
-- Hello, I'm @PinguinCoding, my actual name is Guillerme and I live in South America, Brazil
-- I’m interested in Java, Pyhton for DataScience and Games Development
-- I'm currently learning the basics of Python and also the basics in how to use Game Maker Studio 2
-- I’m looking to collaborate on Data Science Projects as well as game development projects
-- Reach me through out my email guilhermerg220@gmail.com
+# Hello World! I'm Guilherme
 
-<!---
-PinguinCoding/PinguinCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li> I'm a Back-end Developer </li> 
+  <li> I'm current 19 years old </li>
+</ul>
+
+##
+
+### Social Media
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinguinCoding)
+
+### Technologies and Tools
+
+<div> 
+  <a syle="display: flex;align-items: center">
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
+  </a>
+</div>
+
+##
+
+<a href="https://github.com/PinguinCoding"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinguinCoding&layout=compact&langs_count=16&theme=dracula&card_width=250"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PinguinCoding&show_icons=true&theme=dracula">
+</a>
+
+##
+
