@@ -24,7 +24,7 @@
   <a syle="display: flex;align-items: center">
     <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img height="30em" src="https://img.shields.io/badge/Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white">
+    <img height ="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
   </a>
 </div>
 
