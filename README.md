@@ -2,7 +2,7 @@
 
 <ul>
   <li> I'm a Back-end Developer </li> 
-  <li> I'm current 19 years old </li>
+  <li> I'm current 20 years old </li>
   <li> I'm interested in Java, Data Science and Game Development </li>
   <li> I'm currently studying Python for Data Analysis and Game Development with Game Maker Studio 2 </li>
 </ul>
