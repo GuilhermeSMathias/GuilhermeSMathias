@@ -1,10 +1,10 @@
 # Hello World! I'm Guilherme
 
 <ul>
-  <li> I'm a Back-end Developer </li> 
-  <li> I'm current 20 years old </li>
-  <li> I'm interested in Java, Data Science and Game Development </li>
-  <li> I'm currently studying Python for Data Analysis and Game Development with Game Maker Studio 2 </li>
+  <li> I'm from Brazil and currently 20 years old </li>
+  <li> I have a degree in Digital Games from the College Anhanguera </li>
+  <li> I'm interested in Back-end Development, Data Science and Game Design </li>
+  <li> I'm currently studying applications with Python in Data Science in the EBAC online course</li>
 </ul>
 
 ##
