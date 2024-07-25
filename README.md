@@ -14,7 +14,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-00CED1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GuilhermeSanMa)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543996149408)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1672754943)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/guilherme-sant-ana-mathias-220056205](https://www.linkedin.com/in/guilherme-sant-ana-mathias-220056205/))
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sant-ana-mathias-220056205/))
 [![Instagram](https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_smathias/)
 
 
