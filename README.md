@@ -33,7 +33,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuquePin&repo=previsao-renda&theme=dark)](https://github.com/DuquePin/previsao-renda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuquePin&repo=data-science-exercicies&theme=dark)](https://github.com/DuquePin/previsao-renda)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuquePin&repo=Final_Project_EBAC&theme=dark)](https://github.com/DuquePin/previsao-renda)
 
 #### Stats
 ##
