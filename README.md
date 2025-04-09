@@ -4,8 +4,8 @@
 <ul>
   <li> I'm from Brazil and currently 22 years old </li>
   <li> I have a degree in Digital Games from the College Anhanguera </li>
+  <li> I have a certificate in Data Science from EBAC </li>
   <li> I'm interested in Back-end Development, Data Science and Game Design </li>
-  <li> I'm currently studying applications with Python in Data Science in the EBAC online course</li>
 </ul>
 
 ##
