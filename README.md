@@ -31,16 +31,16 @@
 
 #### My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuquePin&repo=previsao-renda&theme=dark)](https://github.com/DuquePin/previsao-renda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuquePin&repo=data-science-exercicies&theme=dark)](https://github.com/DuquePin/data-science-exercicies)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuquePin&repo=Final_Project_EBAC&theme=dark)](https://github.com/DuquePin/Final_Project_EBAC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSMathias&repo=previsao-renda&theme=dark)](https://github.com/GuilhermeSMathias/previsao-renda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSMathias&repo=data-science-exercicies&theme=dark)](https://github.com/GuilhermeSMathias/data-science-exercicies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSMathias&repo=Final_Project_EBAC&theme=dark)](https://github.com/GuilhermeSMathias/Final_Project_EBAC)
 
 #### Stats
 ##
 
 <a href="https://github.com/DuquePin"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuquePin&layout=compact&langs_count=16&theme=dracula&card_width=250"> 
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=DuquePin&show_icons=true&theme=dracula">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSMathias&layout=compact&langs_count=16&theme=dracula&card_width=250"> 
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSMathias&show_icons=true&theme=dracula">
 </a>
 
 ##
