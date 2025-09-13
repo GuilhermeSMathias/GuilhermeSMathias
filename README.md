@@ -5,6 +5,7 @@
   <li> I'm from Brazil and currently 22 years old </li>
   <li> I have a degree in Digital Games from the College Anhanguera </li>
   <li> I have a certificate in Data Science from EBAC </li>
+  <li> I am currently a graduate in Information Systems at UTFPR </li>li
   <li> I'm interested in Back-end Development, Data Science and Game Design </li>
 </ul>
 
